@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CharlieeeH
+- Hi, I'm Chengrui Hu, a CSE junior student at University of Michigan.
 
 
 
