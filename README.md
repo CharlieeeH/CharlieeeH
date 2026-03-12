@@ -1,4 +1,4 @@
-- Hi, I'm Chengrui Hu, a CSE junior student at University of Michigan.
+Hi, I'm Chengrui Hu, a CSE junior student at University of Michigan.
 
 
 
